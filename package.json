@@ -1,0 +1,20 @@
+{
+  "name": "@wheelmaker/js-form",
+  "version": "0.0.1",
+  "description": "Javascript form class web front end.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^0.*"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "form",
+    "axios"
+  ],
+  "author": "Wheelmaker",
+  "license": "MIT"
+}
